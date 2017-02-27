@@ -5,7 +5,7 @@
   "main": "server.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SabrinaMarkon/phpss-react-bootstrap-interface.git"
+    "url": "git+https://SabrinaMarkon@github.com/SabrinaMarkon/phpss-react-bootstrap-interface.git"
   },
   "author": "Mostafa Eweda <mo.eweda@gmail.com>",
   "dependencies": {
@@ -18,7 +18,10 @@
   "scripts": {
     "start": "node server.js"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "babel-cli": "^6.23.0",
+    "babel-preset-react": "^6.23.0"
+  },
   "keywords": [
     "React",
     "Bootstrap",
