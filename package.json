@@ -10,7 +10,7 @@
   "author": "Mostafa Eweda <mo.eweda@gmail.com>",
   "dependencies": {
     "async": "~0.2.8",
-    "express": "~3.2.4",
+    "express": "~4.17.1",
     "react": "^15.4.2",
     "react-dom": "^15.4.2",
     "socket.io": "~0.9.14"
